@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
 I'm [Ahmed-Elagezy](https://verma-anushka.github.io/anushkaverma/), I'm a full stack web and Business Intelligence developer.
